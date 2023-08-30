@@ -1,0 +1,7 @@
+Id, status, Duration
+1,Cancelled, 0
+2,Ended, 15
+3,Ended, 9
+4,Cancelled, 0
+5,Ended, 11
+6,Ended, 20
